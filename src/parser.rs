@@ -23,3 +23,7 @@ pub fn read_pairs(input: &String) -> Vec<Pair> {
     }
     pairs
 }
+
+pub fn expand_for(input: &String) -> String {
+
+}
